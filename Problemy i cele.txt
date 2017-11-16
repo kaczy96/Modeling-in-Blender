@@ -1,0 +1,11 @@
+Cel:
+Kobieca postaæ z ubraniem i szkieletem
+
+Napotkane problemy:
+
+- pojedyncze "problemy" niszcz¹ce jednlitoœæ (aktualnie na plecach i pod piersiami), prawdopoodobnie zagubione vertexy
+- blender postanowi³ zniszczyæ ponad godzinny projekt, zapisywaæ co 10 min efekty pracy
+- d³onie
+- stopy
+- jak wymodelowaæ g³owê i po³¹czyæ j¹ z tu³owiem
+- jak zrobiæ ubranie, czy jako osobny plik blend czy od razu nak³adaæ na postaæ
